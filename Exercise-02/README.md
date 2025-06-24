@@ -1,22 +1,24 @@
-# Exercício 2 — Títulos e parágrafos
+# 🟦 Exercise 2: Box Model
 
-Crie um arquivo index.html com:
+## 🗂️ Descrição
+Exercício para praticar as propriedades de Box Model (`padding`, `border`, `margin`).
 
-- Um h1 principal: "Sobre Helder Medeiros"
+### ✅ Requisitos
+- Definir uma `div` com:
+  - `padding: 20px`
+  - `border: 2px solid black`
+  - `margin: 10px`
+  - `background-color: lightgray`
 
-- Um h2 com "Objetivo Profissional"
+## ⚡ Resultado esperado
+A div aparece com:
+- Espaçamento interno (padding) de 20px.
+- Borda visível preta de 2px.
+- Espaçamento externo (margin) de 10px.
+- Cor de fundo cinza clara.
 
-- Um parágrafo explicando seu objetivo na carreira de programação.
-
-
-
-## 📚 Tecnologias Utilizadas
-
-- HTML5
-
-## 🚀 Objetivo
-
-Revisar e reforçar o conteúdo já aprendido.
+## 🛠️ O que este exercício ensina
+- Fundamentos do Box Model no CSS.
 
 ## 👨‍💻 Autor
 

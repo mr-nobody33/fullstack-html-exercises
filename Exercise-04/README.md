@@ -1,20 +1,20 @@
-# Exercício 4 — Link e imagens
+# 🟦 Exercise 4: Tipos de Medida
 
-Crie um arquivo index.html com:
+## 🗂️ Descrição
+Exercício para praticar diferentes tipos de medidas (`px`, `%`, `rem`).
 
-- Um link que leva ao seu GitHub (https://github.com/mr-nobody33)
+### ✅ Requisitos
+- Criar uma `div` com largura de 50% e altura de 100px.
+- Alinhar texto ao centro.
+- Definir tamanho de fonte para `2rem`.
 
-- Uma imagem com src e texto alternativo "Foto de perfil"
+## ⚡ Resultado esperado
+A div:
+- Ocupa metade da largura do container.
+- Possui texto centralizado e fonte proporcional (`2rem`).
 
-
-
-## 📚 Tecnologias Utilizadas
-
-- HTML5
-
-## 🚀 Objetivo
-
-Revisar e reforçar o conteúdo já aprendido.
+## 🛠️ O que este exercício ensina
+- Tipos de medida no CSS e suas implicações para o layout e a tipografia.
 
 ## 👨‍💻 Autor
 

@@ -1,18 +1,18 @@
-# Exercício 3 — Lista não ordenada
+# 🟩 Exercise 3: Classes e Ids
 
-Crie um arquivo index.html com:
+## 🗂️ Descrição
+Exercício para praticar seletores de classes e ids.
 
-- Uma lista não ordenada com pelo menos 5 tecnologias que você deseja dominar no Fullstack (ex.: HTML, CSS, JS, React, Django...)
+### ✅ Requisitos
+- Criar um parágrafo com `class="destaque"` (amarelo e negrito).
+- Criar um `h2` com `id="titulo-principal"` (verde e fonte de 24px).
 
+## ⚡ Resultado esperado
+- O texto marcado com `destaque` fica amarelo e em negrito.
+- O texto marcado com `id="titulo-principal"` aparece em verde e com fonte de 24px.
 
-
-## 📚 Tecnologias Utilizadas
-
-- HTML5
-
-## 🚀 Objetivo
-
-Revisar e reforçar o conteúdo já aprendido.
+## 🛠️ O que este exercício ensina
+- Diferentes seletores (`class` vs `id`) e como aplicá-los.
 
 ## 👨‍💻 Autor
 

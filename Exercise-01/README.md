@@ -1,25 +1,19 @@
-# Exercício 1 — Estrutura base
+# 🟩 Exercise 1: Cores e Tipografia
 
-Crie um arquivo index.html com:
+## 🗂️ Descrição
+Exercício para aplicar cores e tipografia básicos no CSS.
 
-- DOCTYPE
+### ✅ Requisitos
+- Definir cor vermelha para uma tag `h1`.
+- Definir cor azul e tamanho de fonte de `18px` para uma tag `p`.
 
-- Tag raiz html
+## ⚡ Resultado esperado
+- O título (`h1`) aparece vermelho.
+- O parágrafo (`p`) aparece azul e com fonte de `18px`.
 
-- head com charset e título "Primeiro Exercício"
-
-- body com o texto:
-"Iniciando meu Fullstack Developer Journey com HTML"
-
-
-
-## 📚 Tecnologias Utilizadas
-
-- HTML5
-
-## 🚀 Objetivo
-
-Revisar e reforçar o conteúdo já aprendido.
+## 🛠️ O que este exercício ensina
+- Definição de cores (`color`) para elementos.
+- Definição de tamanho de fonte (`font-size`) para texto.
 
 ## 👨‍💻 Autor
 

@@ -1,28 +1,17 @@
-# Exercício 5 — Semântica Básica
+# 🟩 Exercise 5: Especificidade
 
-Crie um arquivo index.html com:
+## 🗂️ Descrição
+Exercício para compreender e verificar o impacto da especificidade no CSS.
 
-- Use as tags: <header>, <nav>, <main>, <section>, <footer>
+### ✅ Requisitos
+- Criar um parágrafo com `class="texto"` (definindo cor vermelha).
+- Definir para o mesmo parágrafo um `id="importante"` (com cor azul).
 
-- Crie um pequeno layout representativo com:
+## ⚡ Resultado esperado
+A cor final do texto é **azul**, demonstrando que o `id` tem prioridade sobre a `class`.
 
-    - Header com título "Meu Portfólio"
-
-    - Nav com 3 links fictícios (ex.: Sobre, Projetos, Contato)
-
-    - Main com um parágrafo genérico
-
-    - Footer com "Desenvolvido por Helder Medeiros"
-
-
-
-## 📚 Tecnologias Utilizadas
-
-- HTML5
-
-## 🚀 Objetivo
-
-Revisar e reforçar o conteúdo já aprendido.
+## 🛠️ O que este exercício ensina
+- Especificidade e como ela determina qual estilo é aplicado quando há conflito.
 
 ## 👨‍💻 Autor
 
